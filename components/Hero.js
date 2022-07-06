@@ -2,7 +2,7 @@ import React from "react";
 import Image from "next/image";
 import ButtonPrimary from "./misc/ButtonPrimary";
 const Hero = ({
-  listUser = [
+  /*listUser = [
     {
       name: "Users",
       number: "390",
@@ -18,20 +18,21 @@ const Hero = ({
       number: "50",
       icon: "/assets/Icon/bx_bxs-server.svg",
     },
-  ],
+  ],  */
 }) => {
   return (
     <div className="max-w-screen-xl mt-24 px-8 xl:px-16 mx-auto" id="about">
       <div className="grid grid-flow-row sm:grid-flow-col grid-rows-2 md:grid-rows-1 sm:grid-cols-2 gap-8 py-6 sm:py-16 ">
         <div className=" flex flex-col justify-center items-start row-start-2 sm:row-start-1">
           <h1 className="text-3xl lg:text-4xl xl:text-5xl font-medium text-black-600 leading-normal">
-            Want anything to be easy with <strong>LaslesVPN</strong>.
+            Le Donne Costruttrici
+            di Pace.
           </h1>
-          <p className="text-black-500 mt-4 mb-6">
-            Provide a network for all your needs with ease and fun using
-            LaslesVPN discover interesting features from us.
+          <p className="text-1xl lg:text-2xl xl:text-3xl text-black-500 mt-4 mb-6">
+            Premio Donne in Prima Fila, 
+            Consegnato Da <strong>Dacia Mariani</strong>.
           </p>
-          <ButtonPrimary>Get Started</ButtonPrimary>
+          { /*<ButtonPrimary>Get Started</ButtonPrimary> */}
         </div>
         <div className="flex w-full">
           <div className="h-full w-full">
@@ -40,13 +41,13 @@ const Hero = ({
               alt="Dacia Mariani"
               quality={100}
               width={612}
-              height={383}
+              height={583}
               layout="responsive"
             />
           </div>
         </div>
       </div>
-      <div className="relative w-full flex">
+      {/*<div className="relative w-full flex">
         <div className="rounded-lg w-full grid grid-flow-row sm:grid-flow-row grid-cols-1 sm:grid-cols-3 py-9 divide-y-2 sm:divide-y-0 sm:divide-x-2 divide-gray-100 bg-white-500 z-10">
           {listUser.map((listUsers, index) => (
             <div
@@ -71,7 +72,7 @@ const Hero = ({
           className="absolute bg-black-600 opacity-5 w-11/12 roudned-lg h-64 sm:h-48 top-0 mt-8 mx-auto left-0 right-0"
           style={{ filter: "blur(114px)" }}
         ></div>
-      </div>
+          </div> */}
     </div>
   );
 };
