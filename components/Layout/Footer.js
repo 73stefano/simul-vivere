@@ -13,7 +13,7 @@ const Footer = () => {
           <div className="flex w-full mt-2 mb-8 -mx-2">
             <div className="mx-2 bg-white-500 rounded-full items-center justify-center flex p-2 shadow-md">
             
-            <a  href="mailto:simul.vivere@gmail.com"><Facebook className="h-6 w-6" /></a>
+            <a  href="https://www.facebook.com/LeGinestreOstello"><Facebook className="h-6 w-6" /></a>
             
             </div>
             <div className="mx-2 bg-white-500 rounded-full items-center justify-center flex p-2 shadow-md">
@@ -23,7 +23,7 @@ const Footer = () => {
             div>
             <div className="mx-2 bg-white-500 rounded-full items-center justify-center flex p-2 shadow-md">
              
-              <Instagram className="h-6 w-6" />
+            <a  href="https://www.instagram.com/ostelloleginestre/"><Instagram className="h-6 w-6" /></a>
             </div>
           </div>
           
