@@ -21,7 +21,7 @@ export default function Home() {
       canonical="https://simul-vivere.vercel.app/"
       openGraph={{
         url: 'https://simul-vivere.vercel.app/',
-        title: 'Open Graph Title',
+        title: 'Le Donne Costruttrici di Pace.',
         description: 'Le Donne Costruttrici di Pace, Premio Donne in Prima Fila, Consegnato Da Dacia Mariani.',
         images: [
           {
