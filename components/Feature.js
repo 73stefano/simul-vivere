@@ -1,6 +1,8 @@
 import Image from "next/image";
 import React from "react";
-import { Link } from "react-scroll";
+import ButtonPrimary from "./misc/ButtonPrimary";
+import ButtonOutline from "./misc/ButtonOutline.";
+
 
 
 const Feature = () => {
@@ -24,6 +26,13 @@ const Feature = () => {
             <h3 className="underline text-2xl sm:text-3xl lg:text-4xl font-medium text-orange-500 leading-relaxed">
             Programma Pacchetti 22-23-24
             </h3>
+            <div className="py-8">
+              <a  href="mailto:simul.vivere@gmail.com"><ButtonPrimary>per prenotazioni scrivere a simul.vivere@gmail.com</ButtonPrimary>
+              </a>
+                <div className="py-8">
+                  <ButtonPrimary>per prenotazioni chiama 345 970 9968</ButtonPrimary>
+                </div>
+             </div>
           </div>
         </div>
       </div>
@@ -172,16 +181,16 @@ const Feature = () => {
       <div className="max-w-screen-xl  px-6 sm:px-8 lg:px-16 mx-auto flex flex-col w-full text-center justify-center">
         <div className="flex flex-col w-full">
           <div className="py-8">
-           
-           
-          <Link href="mailto:simul.vivere@gmail.com">
-              <a>simul.vivere@gmail.com</a>
-            </Link>
-
-
             <h3 className="underline text-2xl sm:text-3xl lg:text-4xl font-medium text-orange-500 leading-relaxed">
             Programma Pacchetti 29-30-31
             </h3>
+            <div className="py-8">
+              <a  href="mailto:simul.vivere@gmail.com"><ButtonPrimary>per prenotazioni scrivere a simul.vivere@gmail.com</ButtonPrimary>
+              </a>
+                <div className="py-8">
+                  <ButtonPrimary>per prenotazioni chiama 345 970 9968</ButtonPrimary>
+                </div>
+            </div>
           </div>
         </div>
       </div>

@@ -1,7 +1,7 @@
 import React from "react";
 import Image from "next/image";
 import ButtonPrimary from "./misc/ButtonPrimary";
-import { Link } from "react-scroll";
+import ButtonOutline from "./misc/ButtonOutline.";
 const Hero = ({
   /*listUser = [
     {
@@ -33,11 +33,9 @@ const Hero = ({
             Premio Donne in Prima Fila,<br></br>
             Consegnato Da <strong>Dacia Mariani</strong>.
           </p>
-          
-            <ButtonPrimary>
-              <a href="https://tailwindcss.com/docs/text-decoration"></a>
-              Get Started </ButtonPrimary>
-        
+           
+            <ButtonOutline>per prenotazioni 345 970 9968</ButtonOutline>
+              
         </div>
         <div className="flex w-full">
           <div className="h-full w-full">
