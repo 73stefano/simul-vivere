@@ -26,8 +26,7 @@ export default function Home() {
         images: [
           {
             url: 'https://simul-vivere.vercel.app/assets/dacia.jpeg',
-            width: 1080,
-            height: 600,
+            
             alt: 'Dacia Mariani',
             type: 'image/jpeg',
           },
