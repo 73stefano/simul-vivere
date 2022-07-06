@@ -1,6 +1,7 @@
 import React from "react";
 import Image from "next/image";
 import ButtonPrimary from "./misc/ButtonPrimary";
+import { Link } from "react-scroll";
 const Hero = ({
   /*listUser = [
     {
@@ -29,10 +30,14 @@ const Hero = ({
             di Pace.
           </h1>
           <p className="text-1xl lg:text-2xl xl:text-3xl text-black-500 mt-4 mb-6">
-            Premio Donne in Prima Fila, 
+            Premio Donne in Prima Fila,<br></br>
             Consegnato Da <strong>Dacia Mariani</strong>.
           </p>
-          { /*<ButtonPrimary>Get Started</ButtonPrimary> */}
+          
+            <ButtonPrimary>
+              <a href="https://tailwindcss.com/docs/text-decoration"></a>
+              Get Started </ButtonPrimary>
+        
         </div>
         <div className="flex w-full">
           <div className="h-full w-full">
