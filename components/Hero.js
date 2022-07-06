@@ -36,8 +36,8 @@ const Hero = ({
         <div className="flex w-full">
           <div className="h-full w-full">
             <Image
-              src="/assets/Illustration1.png"
-              alt="VPN Illustrasi"
+              src="/assets/dacia.jpeg" 
+              alt="Dacia Mariani"
               quality={100}
               width={612}
               height={383}
