@@ -35,8 +35,11 @@ const Hero = ({
           </p>
            
             <ButtonOutline>per prenotazioni 345 970 9968</ButtonOutline>
+
+            
               
         </div>
+        
         <div className="flex w-full">
           <div className="h-full w-full">
             <Image

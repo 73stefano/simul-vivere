@@ -13,6 +13,66 @@ const Feature = () => {
       className="max-w-screen-xl mt-8 mb-6 sm:mt-14 sm:mb-14 px-6 sm:px-8 lg:px-16 mx-auto"
       id="feature"
     >
+      <div className="grid grid-flow-row sm:grid-flow-col grid-cols-1 sm:grid-cols-2 gap-8 py-4 my-12">
+      <div className="flex w-full justify-end">
+      <div className="h-full w-full p-4">
+             
+             <ul className="text-black-500 self-start list-inside ml-8">
+               <li className="relative  custom-list my-6 text-xl lg:text-2xl xl:text-2xl text-orange-500 font-bold">
+                 <strong>Menù 17 luglio 2022</strong>
+               </li>
+               <li className="relative underline custom-list my-4">
+                 Beverage
+               </li>
+               <li className="relative circle-check custom-list my-4">
+               Prosecco Mionetto Vivo, Aperitivi alcolici ed analcolici in brocca, Acqua
+               </li>
+               <li className="relative circle-check custom-list my-4">
+               - Pizzette rosse di sfoglia<br></br>
+               - Bruschetta prosciutto e melone<br></br>
+               - Bruschetta caciotta stracchinata e uvetta<br></br>
+               - Zucchine marinate con menta<br></br>
+               - Mini pomodoro con riso e patate
+               </li>
+               </ul>
+               </div>
+               </div>
+               <div className="flex flex-col items-end justify-center ml-auto w-full lg:w-9/12">
+
+               <ul className="text-black-500 self-start list-inside ml-8">
+               <li className="relative underline custom-list my-4">
+                 Piatto Caldo
+               </li>
+               <li className="relative circle-check custom-list my-4">
+                 2 cannelloni mono porzionati, classico con ripieno di carne e con ripieno di caponata e stracciatella
+               </li>
+               <li className="relative underline custom-list my-4">
+                 Dessert
+               </li>
+               <li className="relative circle-check custom-list my-4">
+               - Cannolino siciliano farcito al momento<br></br>
+               - Bignè alla crema pasticcera<br></br>
+               - Semifreddo Tiramisù in tazzina con lingua di gatto<br></br>
+               - Bicchierino di pesche con il vino
+               </li>
+             </ul>
+               
+      </div>
+      </div>
+      <div className="text-center pb-12">
+              <p>
+               Il menù sarà servito ai tavoli, per gli ospiti della serata verrà allestito un tavolo ad hoc.
+               </p>
+               <p className="text-xl lg:text-2xl xl:text-2xl text-orange-500 font-bold">
+                 Il costo del menù è di € 18.00 a persona
+               </p>
+               <p className=" font-bold">
+               La Pasticceria F.lli Tichetti dal 1961, a sostegno del progetto Simul Vivere “Un seme per il lavoro” fornirà la cura dell’allestimento, servizio e sbarazzo a titolo gratuito.
+               </p>
+       </div>        
+      
+
+
       <div className="max-w-screen-xl  px-6 sm:px-8 lg:px-16 mx-auto flex flex-col w-full text-center justify-center">
         <div className="flex flex-col w-full">
           <h3 className="text-2xl sm:text-3xl lg:text-4xl font-medium text-black-600 leading-relaxed">
@@ -30,7 +90,7 @@ const Feature = () => {
               <a  href="mailto:simul.vivere@gmail.com"><ButtonPrimary>per prenotazioni scrivere a simul.vivere@gmail.com</ButtonPrimary>
               </a>
                 <div className="py-8">
-                  <ButtonPrimary>per prenotazioni chiama 345 970 9968</ButtonPrimary>
+                  <ButtonPrimary>per prenotazioni chiama 327-2133183</ButtonPrimary>
                 </div>
              </div>
           </div>
@@ -188,7 +248,7 @@ const Feature = () => {
               <a  href="mailto:simul.vivere@gmail.com"><ButtonPrimary>per prenotazioni scrivere a simul.vivere@gmail.com</ButtonPrimary>
               </a>
                 <div className="py-8">
-                  <ButtonPrimary>per prenotazioni chiama 345 970 9968</ButtonPrimary>
+                  <ButtonPrimary>per prenotazioni chiama 327-2133183</ButtonPrimary>
                 </div>
             </div>
           </div>
