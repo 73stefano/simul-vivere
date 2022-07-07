@@ -31,7 +31,7 @@ const Hero = ({
           </h1>
           <p className="text-1xl lg:text-2xl xl:text-3xl text-black-500 mt-4 mb-6">
             Premio Donne in Prima Fila,<br></br>
-            Consegnato Da <strong>Dacia Mariani</strong>.
+            Consegnato A <strong>Dacia Mariani</strong>.
           </p>
            
             <ButtonOutline>per prenotazioni 345 970 9968</ButtonOutline>
