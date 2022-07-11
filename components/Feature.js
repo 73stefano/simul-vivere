@@ -100,7 +100,7 @@ const Feature = () => {
         <div className="flex w-full justify-end">
           <div className="h-full w-full p-4">
             <Image
-              src="/assets/Dacia_Maraini.png"
+              src="/assets/Rassegna.png"
               alt="VPN Illustrasi"
               layout="responsive"
               quality={100}
@@ -136,7 +136,7 @@ const Feature = () => {
             </li>
             <li className="relative circle-check custom-list my-4">
               Ore 09.30: Poggio Catino, visita alla Rocca Catino e torre longobarda - Castello Poggio Catino  
-              Moira Marchetti cell.3316358054 moiramarchetti1981@gmail.com<br></br>5 euro (in attesa del logo)
+              
             </li>
             <li className="relative circle-check custom-list my-4">
               Ore 13.00: Pranzo a buffet in Ostello
@@ -150,7 +150,7 @@ const Feature = () => {
           </p>
           <ul className="text-black-500 self-start list-inside ml-8">
             <li className="relative text-orange-500 custom-list my-6">
-              <strong>Opzione</strong>
+              <strong>Per restare con noi ed assistere alla proiezione di sabato 23 luglio</strong>
             </li>
             <li className="relative circle-check custom-list my-4">
             Ore 17.30: Mostra degli acquarelli 
@@ -207,7 +207,7 @@ const Feature = () => {
             </li>
             <li className="relative circle-check custom-list my-4">
               Ore 09.00: Poggio Mirteto, visita alla chiesa di San Paolo e borgo medioevale di Poggio Mirteto
-              Andrea Leopaldi 3292638261 museoercolenardi@libero.it<br></br>(offerta alla chiesa)
+              
             </li>
             <li className="relative circle-check custom-list my-4">
               Ore 13.00: Pranzo a buffet in Ostello
@@ -217,11 +217,11 @@ const Feature = () => {
             </li>
           </ul>
           <p className="text-xl lg:text-2xl xl:text-2xl text-orange-500 font-bold">
-            Costo totale 75 euro a persona
+            Costo totale 80 euro a persona
           </p>
           <ul className="text-black-500 self-start list-inside ml-8">
             <li className="relative text-orange-500 custom-list my-6">
-              <strong>Opzione</strong>
+              <strong>Per restare con noi ed assistere alla proiezione di domenica 24 luglio</strong>
             </li>
             <li className="relative circle-check custom-list my-4">
               Ore 17.30: Mostra degli acquarelli 
@@ -258,7 +258,7 @@ const Feature = () => {
         <div className="flex w-full justify-end">
           <div className="h-full w-full p-4">
             <Image
-              src="/assets/Dacia_Maraini.png"
+              src="/assets/Rassegna.png"
               alt="VPN Illustrasi"
               layout="responsive"
               quality={100}
@@ -293,8 +293,7 @@ const Feature = () => {
               Ore 8.00: Prima colazione 
             </li>
             <li className="relative circle-check custom-list my-4">
-              Ore 09.30: Cottanello, visita alla villa romana Aureli Cotta (3 euro a persona, si prenota e si paga in anticipo, una settimana prima) Eremo S. Cataldo e Borgo 
-              Monica Volpi 3381952548 turismocottanello@gmail.com
+              Ore 09.30: Cottanello, visita alla villa romana Aureli Cotta ed Eremo S. Cataldo
             </li>
             <li className="relative circle-check custom-list my-4">
               Ore 13.00: Pranzo a buffet in Ostello
@@ -304,11 +303,11 @@ const Feature = () => {
             </li>
           </ul>
           <p className="text-xl lg:text-2xl xl:text-2xl text-orange-500 font-bold">
-            Costo totale 75 euro a persona
+            Costo totale 80 euro a persona
           </p>
           <ul className="text-black-500 self-start list-inside ml-8">
             <li className="relative text-orange-500 custom-list my-6">
-              <strong>Opzione</strong>
+              <strong>Per restare con noi ed assistere alla proiezione di sabato 30 luglio</strong>
             </li>
             <li className="relative circle-check custom-list my-4">
               Ore 17.30: Mostra degli acquarelli 
@@ -365,9 +364,7 @@ const Feature = () => {
               Ore 8.00: Prima colazione 
             </li>
             <li className="relative circle-check custom-list my-4">
-              Ore 09.30: Casperia, visita al Borgo con trappolatoio- percorso sentinelle e torrioni. Palazzo Forani
-              Kathleen Scheda 3406610669 kscheda@yahoo.it<br></br>
-              80-100 euro
+              Ore 09.30: Casperia, visita al Borgo con trappolatoio - percorso sentinelle e torrioni.
             </li>
             <li className="relative circle-check custom-list my-4">
               Ore 13.00: Pranzo a buffet in Ostello
@@ -377,11 +374,11 @@ const Feature = () => {
             </li>
           </ul>
           <p className="text-xl lg:text-2xl xl:text-2xl text-orange-500 font-bold">
-            Costo totale 75 euro a persona
+            Costo totale 80 euro a persona
           </p>
           <ul className="text-black-500 self-start list-inside ml-8">
             <li className="relative text-orange-500 custom-list my-6">
-              <strong>Opzione</strong>
+              <strong>Per restare con noi ed assistere alla proiezione di domenica 31 luglio</strong>
             </li>
             <li className="relative circle-check custom-list my-4">
               Ore 17.30: Mostra degli acquarelli 
