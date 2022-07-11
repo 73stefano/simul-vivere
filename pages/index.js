@@ -25,6 +25,7 @@ export default function Home() {
         description: 'Le Donne Costruttrici di Pace, Premio Donne in Prima Fila, Consegnato Da Dacia Mariani.',
         images: [
           {
+            itemprop: "image",
             url: 'https://simul-vivere.vercel.app/assets/dacia.jpeg',
             
             alt: 'Dacia Mariani',
