@@ -121,7 +121,7 @@ const Feature = () => {
               Ore 17.00: Arrivo all’Ostello - Check-in
             </li>
             <li className="relative circle-check custom-list my-4">
-              Ore 20.00: Apricena alla casa del Cittadino, Cantalupo in Sabina (RI)
+              Ore 20.00: Apericena alla casa del Cittadino, Cantalupo in Sabina (RI)
             </li>
             <li className="relative circle-check custom-list my-4">
               Ore 21.00: Proiezione “A mano disarmata” Italia, 2019 - interviene il regista Claudio Bonivento 
@@ -156,7 +156,7 @@ const Feature = () => {
             Ore 17.30: Mostra degli acquarelli 
             </li>
             <li className="relative circle-check custom-list my-4">
-              Ore 20.00: Apricena alla casa del Cittadino, Cantalupo in Sabina (RI)
+              Ore 20.00: Apericena alla casa del Cittadino, Cantalupo in Sabina (RI)
             </li>
             <li className="relative circle-check custom-list my-4">
               Ore 21.00: Proiezione: “Stromboli. Terra di Dio” Italia, 1960 - interviene Alessandro Rossellini 
@@ -192,7 +192,7 @@ const Feature = () => {
               Ore 17.00: Arrivo all’Ostello - Check-in
             </li>
             <li className="relative circle-check custom-list my-4">
-              Ore 20.00: Apricena alla casa del Cittadino, Cantalupo in Sabina (RI)
+              Ore 20.00: Apericena alla casa del Cittadino, Cantalupo in Sabina (RI)
             </li>
             <li className="relative circle-check custom-list my-4">
               Ore 21.00: Proiezione “Stromboli. Terra di Dio” Italia 1960 - interviene Alessandro Rossellini  
@@ -227,7 +227,7 @@ const Feature = () => {
               Ore 17.30: Mostra degli acquarelli 
             </li>
             <li className="relative circle-check custom-list my-4">
-              Ore 20.00: Apricena alla casa del Cittadino, Cantalupo in Sabina (RI)
+              Ore 20.00: Apericena alla casa del Cittadino, Cantalupo in Sabina (RI)
             </li>
             <li className="relative circle-check custom-list my-4">
               Ore 21.00: Proiezione: “Tra cielo e terra” Usa-Francia 1993 - interviene Steve Della Casa
@@ -279,7 +279,7 @@ const Feature = () => {
               Ore 17.00: Arrivo all’Ostello - Check-in
             </li>
             <li className="relative circle-check custom-list my-4">
-              Ore 20.00: Apricena alla casa del Cittadino, Cantalupo in Sabina (RI)
+              Ore 20.00: Apericena alla casa del Cittadino, Cantalupo in Sabina (RI)
             </li>
             <li className="relative circle-check custom-list my-4">
             Ore 21.00: Proiezione: “JoJo Rabbit” Germania, 2019 interviene - Francesca Reggiani 
@@ -313,7 +313,7 @@ const Feature = () => {
               Ore 17.30: Mostra degli acquarelli 
             </li>
             <li className="relative circle-check custom-list my-4">
-              Ore 20.00: Apricena alla casa del Cittadino, Cantalupo in Sabina (RI)
+              Ore 20.00: Apericena alla casa del Cittadino, Cantalupo in Sabina (RI)
             </li>
             <li className="relative circle-check custom-list my-4">
               Ore 21.00: Proiezione: ““La verità negata” Usa-Gran Bretagna 2016 
@@ -350,7 +350,7 @@ const Feature = () => {
               Ore 17.00: Arrivo all’Ostello - Check-in
             </li>
             <li className="relative circle-check custom-list my-4">
-              Ore 20.00: Apricena alla casa del Cittadino, Cantalupo in Sabina (RI)
+              Ore 20.00: Apericena alla casa del Cittadino, Cantalupo in Sabina (RI)
             </li>
             <li className="relative circle-check custom-list my-4">
               Ore 21.00: “La verità negata” Usa-Gran Bretagna 2016  
@@ -384,7 +384,7 @@ const Feature = () => {
               Ore 17.30: Mostra degli acquarelli 
             </li>
             <li className="relative circle-check custom-list my-4">
-              Ore 20.00: Apricena alla casa del Cittadino, Cantalupo in Sabina (RI)
+              Ore 20.00: Apericena alla casa del Cittadino, Cantalupo in Sabina (RI)
             </li>
             <li className="relative circle-check custom-list my-4">
               Ore 21.00: Proiezione: “E ora dove andiamo” Francia-Libano-Egitto-Italia, 2012- interviene C. Taricano
